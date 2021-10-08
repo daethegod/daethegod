@@ -38,10 +38,10 @@
                               
 <h1 align="center">STATS FOR NERDS</h1>
 <p align="center">
-  <img src="https://img.shields.io/github/followers/s8v?style=social">
-  <img src="https://img.shields.io/github/stars/s8v?style=social">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=s8v.s8v">
+  <img src="https://img.shields.io/github/followers/daethegod?style=social">
+  <img src="https://img.shields.io/github/stars/daethegod?style=social">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=daethegod.daethegod">
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=s8v">
+<img src="https://activity-graph.herokuapp.com/graph?username=daethegod">
 
