@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-if you need to contace me add my discord!!! =]#1402
+if you need to contact me add my discord!!! =]#1402
 
 
 my twitter is https://twitter.com/daethegodd
