@@ -36,7 +36,7 @@
 ```
      
                               
-<h1 align="center">STATS FOR NERDS</h1>
+<h1 align="center">STATS FOR daethegod</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/daethegod?style=social">
   <img src="https://img.shields.io/github/stars/daethegod?style=social">
